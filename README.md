@@ -1,7 +1,8 @@
 # SOCIAL-MEDIA-ENGAGEMENT-ANALYSIS
 📌 1. Project Title: Social Media Engagement Analysis Dashboard
 
-🧭 2. Purpose: 
+🧭 2. Purpose: This Social Media Engagement Analysis Dashboard provides a holistic view of social media performance by integrating engagement metrics, sentiment analysis, and campaign performance tracking. Its goal is to empower businesses with actionable insights to optimize their social media strategy, manage brand reputation, and drive better outcomes from their online presence.
+
 
 🛠️ 3. Tech Stack Used: 
 
